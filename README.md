@@ -1,20 +1,24 @@
 # QCW Tesla Coil
 
+Currently in production (80%). planned completion 1/4/2023 - 1/5/2023
+
+<img src="images/img1.jpg">
+
 ## Overview
 
 ## Schematics
 
-<object data="https://github.com/0xMartin/QCW-Tesla-Coil/blob/main/pcb/doc.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/0xMartin/QCW-Tesla-Coil/blob/main/pcb/doc.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/0xMartin/QCW-Tesla-Coil/blob/main/pcb/doc.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+Work in progress ..
 
 ## Models
+
+Work in progress ..
 
 ## Graphs
 
 ## Test + Video
+
+Work in progress ..
 
 PRIMARY:
 6 zavitu * cca 3.4mm
