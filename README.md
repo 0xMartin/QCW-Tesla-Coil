@@ -1,8 +1,8 @@
 # QCW Tesla Coil
 
-Currently in production (80%). planned completion 1/4/2023 - 1/5/2023
+Currently in production (90%). planned completion 1/4/2023 - 1/5/2023
 
-<img src="images/img1.jpg">
+<img src="images/img2.jpg">
 
 ## Overview
 
